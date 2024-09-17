@@ -1,0 +1,20 @@
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.exe
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.deps.json
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.runtimeconfig.json
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.dll
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\Лабораторная работа 1.pdb
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная_работа_1.Form1.resources
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.GenerateResource.cache
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.AssemblyInfoInputs.cache
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.AssemblyInfo.cs
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.CoreCompileInputs.cache
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.dll
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\refint\Лабораторная работа 1.dll
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.pdb
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.genruntimeconfig.cache
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\ref\Лабораторная работа 1.dll
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лабораторная работа 1.csproj.AssemblyReference.cache
+C:\Users\vlodi\source\repos\Лабораторная работа 1\Лабораторная работа 1\obj\Debug\net8.0-windows\Лаборато.E908FC05.Up2Date
